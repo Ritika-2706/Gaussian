@@ -47,7 +47,8 @@ for i in range(n):
     print('X%d = %0.2f' %(i,x[i]),end=' ')
 
 ## Output:
-![output](.//GE1.png)
+![output]![gaussian](https://user-images.githubusercontent.com/93427238/150669109-2d822a67-206a-4756-994c-6be67ffa9488.PNG)
+
 
 
 
